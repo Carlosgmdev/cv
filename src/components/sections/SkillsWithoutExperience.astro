@@ -11,20 +11,17 @@ import Git from "@/icons/git.astro"
 import GitHub from "@/icons/GitHub.astro"
 import Tailwind from "@/icons/tailwind.astro"
 import Next from "@/icons/next.astro"
-import { skills } from "@cv"
+import { skills_without_experience } from "@cv"
 import Swift from "@/icons/swift.astro"
 import SwiftUI from "@/icons/swiftui.astro"
 import Kotlin from "@/icons/kotlin.astro"
 import Flutter from "@/icons/flutter.astro"
-import AngularJS from "@/icons/angular.astro"
-import GraphQL from "@/icons/graphql.astro"
-import Elixir from "@/icons/elixir.astro"
-import Phoenix from "@/icons/phoenix.astro"
-import PostgreSQL from "@/icons/database.astro"
-import MongoDB from "@/icons/mongo.astro"
-import AWS from "@/icons/aws.astro"
-import Bootstrap from "@/icons/bootstrap.astro"
-
+import Java from "@/icons/java.astro"
+import Springboot from "@/icons/springboot.astro"
+import Csharp from "@/icons/csharp.astro"
+import Docker from "@/icons/docker.astro"
+import PHP from "@/icons/php.astro"
+import Hexagonal from "@/icons/hexagonal.astro"
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -42,25 +39,27 @@ const SKILLS_ICONS: Record<string, any> = {
   SwiftUI,
   Kotlin,
   Flutter,
-  AngularJS,
-  GraphQL,
-  Elixir,
-  Phoenix,
-  PostgreSQL,
-  MongoDB,
-  AWS,
-  Bootstrap
+  Java,
+  Springboot,
+  Csharp,
+  Docker,
+  PHP,
+  Hexagonal
 }
 ---
 
-<Section title="Habilidades">
+<Section title="Habilidades sin experiencia">
   <ul>
     {
-      skills.map(({ name }) => {
-        const iconName = name === "Next.js" 
-          ? "Next" 
-          : name === "React Native"
-          ? "React"
+      skills_without_experience.map(({ name }) => {
+        const iconName = name === "Next.js"
+          ? "Next"
+          : name === "Spring Boot"
+          ? "Springboot" 
+          : name === "C#"
+          ? "Csharp"
+          : name === "Arquitectura hexagonal (Puertos y adaptadores)"
+          ? "Hexagonal"
           : name
         const Icon = SKILLS_ICONS[iconName]
 

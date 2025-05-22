@@ -1,66 +1,51 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Carlos Giovanni Martínez Calderón",
+    "label": "Desarrollador web y movil full stack",
+    "image": "/me.jpg",
+    "email": "m_ccg@outlook.com",
+    "phone": "+52 4722436902",
+    "url": "https://portfolio-carlosgmdevs-projects.vercel.app/#about",
+    "summary": "Soy un desarrollador web y móvil full stack con cerca de 2 años de experiencia laboral y 4 años de inmersión en el mundo de la programación y el desarrollo de software. He tenido el privilegio de colaborar con empresas como Transportes Castores de Baja California y VisitApp LA, donde he contribuido al desarrollo de aplicaciones web y móviles utilizando tecnologías de última generación. Mi pasión por el aprendizaje continuo me ha llevado a completar diversas formaciones extracurriculares en desarrollo web y móvil. A mis 27 años, estoy comprometido con el crecimiento profesional y la innovación en cada proyecto que emprendo.", 
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "address": "León, Guanajuato",
+      "postalCode": "37000",
+      "city": "León, Guanajuato",
+      "countryCode": "ES-MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "url": "https://www.linkedin.com/in/carlos-mart%C3%ADnez-a35595261/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Carlosgmdev",
+        "url": "https://github.com/Carlosgmdev"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Transportes Castores de Baja California S.A. de C.V.",
+      "position": "Analista de innovación tecnológica",
+      "url": "https://castores.com.mx/",
+      "startDate": "2024-07-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "En mi colaboración con Transportes Castores, he estado a cargo del desarrollo de módulos clave para la aplicación de gestión de personal de la empresa. Estos módulos facilitan la administración de la nómina, abarcando aspectos como préstamos, FONACOT y prima vacacional, y permiten gestionar de manera eficiente las percepciones y deducciones del personal. Además, he implementado una integración con SAP para optimizar los procesos contables. Todo esto ha sido desarrollado utilizando tecnologías avanzadas como AngularJS, TypeScript y Node.js, aplicando patrones de arquitectura y paradigmas como DAO, DTO y POO para asegurar un diseño robusto y escalable.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Visitapp LA",
+      "position": "Desarrollador web y movil full stack",
+      "url": "https://visitapp.la/",
+      "startDate": "2023-08-01",
+      "endDate": "2024-07-01",
+      "summary": "En mi colaboración con VisitApp LA, participé en el desarrollo integral de la aplicación VisitApp Industrial, diseñada para optimizar la gestión de visitantes en entornos industriales. En la plataforma web, utilicé React junto con TailwindCSS y Material UI para crear una interfaz de usuario moderna y eficiente. Para el backend, desarrollé una API GraphQL utilizando Elixir con Phoenix y Ecto ORM, asegurando un manejo de datos robusto y escalable. En el ámbito móvil, implementé la aplicación para Android e iOS con React Native y Apollo Client, garantizando una experiencia de usuario fluida y consistente. Además, desarrollé un microservicio en Flask para ampliar la funcionalidad de la aplicación. Este proyecto me permitió aplicar y expandir mis habilidades en tecnologías de vanguardia, contribuyendo significativamente al éxito del producto.",
       "highlights": [
         "Started the company"
       ]
@@ -78,16 +63,13 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Universidad virtual del estado de Guanajuato",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "area": "Ingeniería en sistemas computacionales",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
+    "startDate": "2023-01-01",
+    "endDate": "2026-01-01",
+    "score": "9.5"
   }],
   "awards": [{
     "title": "Award",
@@ -173,10 +155,10 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "GitLab",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     },
     {
@@ -184,6 +166,121 @@
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Móvil", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "AngularJS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Framework", "UI"
+      ]
+
+    },
+    {
+      "name": "GraphQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "API", "Query Language"
+      ]
+    },
+    {
+      "name": "Elixir",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Funcional", "Erlang VM"
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Framework", "Elixir"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "NoSQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Servicios Cloud", "Infraestructura"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    }
+  ],
+  "skills_without_experience": [
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "POO", "Servidor"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Java Framework", "POO"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "POO", "Servidor"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Contenedores", "Infraestructura"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Servidor", "POO"
+      ]
+    },
+    {
+      "name": "Arquitectura hexagonal (Puertos y adaptadores)",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Arquitectura", "Diseño"
       ]
     }
   ],
@@ -210,66 +307,107 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Módulo de prima vacacional",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Módulo para la gestión de el pago de la prima vacacional del personal de la empresa",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "AngularJS",
+        "TypeScript",
+        "Node.js",
+        "Patron DAO",
+        "Patron DTO",
+        "Paradigma POO",
+        "Integración con SAP",
+        "Carga de archivos",
+        "Generación de PDF",
+        "Descarga de archivos"
       ],
-      "url": "https://mars.codes"
+      "url": ""
     },
     {
-      "name": "AdventJS",
+      "name": "Módulo de préstamos",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Módulo para la gestión de préstamos del personal de la empresa",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "AngularJS",
+        "TypeScript",
+        "Node.js",
+        "Patron DAO",
+        "Patron DTO",
+        "Paradigma POO",
+        "Integración con SAP",
+        "Carga de archivos",
+        "Generación de PDF",
+        "Descarga de archivos"
       ],
-      "url": "https://adventjs.dev"
+      "url": ""
     },
     {
-      "name": "Codember",
+      "name": "Modulo de FONACOT",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Módulo para la gestión de los descuentos del personal de la empresa y el pago a la institución FONACOT",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "AngularJS",
+        "TypeScript",
+        "Node.js",
+        "Patron DAO",
+        "Patron DTO",
+        "Paradigma POO",
+        "Integración con SAP",
+        "Carga de archivos",
+        "Generación de PDF",
+        "Descarga de archivos"
       ],
-      "url": "https://codember.dev"
+      "url": ""
     },
     {
-      "name": "codi.link",
+      "name": "Visitapp Industrial Web",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Aplicación web para la gestión de visitantes en entornos industriales",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "React",
+        "TypeScript",
+        "TailwindCSS",
+        "Material UI",
+        "GraphQL",
+        "Elixir",
+        "Phoenix",
+        "Ecto ORM",
+        "AWS",
+        "Diseño moderno y eficiente",
+        "Carga de archivos",
+        "Persistencia de archivos",
+        "Reconomiento facial"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://visitapp.la/"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Visitapp Industrial Movil",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Aplicación móvil para la gestión de visitantes en entornos industriales",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "React Native",
+        "TypeScript",
+        "Apollo Client",
+        "AWS",
+        "Diseño moderno y eficiente",
+        "Carga de archivos",
+        "Reconomiento facial"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://visitapp.la/"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Flatify Movil",
+      "isActive": true,
+      "description": "Aplicación móvil para la renta de inmuables para las industrias",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "React Native",
+        "TypeScript",
+        "Apollo Client",
+        "AWS",
+        "Diseño moderno y eficiente"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://flatify.mx/"
     }
   ]
 }
